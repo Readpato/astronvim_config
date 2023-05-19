@@ -1,4 +1,7 @@
 return {
   "AstroNvim/astrocommunity",
-  { import = "astrocommunity.colorscheme.kanagawa" }
+  -- Colorschemes
+  { import = "astrocommunity.colorscheme.kanagawa" },
+  -- Motions
+  { import = "astrocommunity.motion.leap-nvim" }
 }
