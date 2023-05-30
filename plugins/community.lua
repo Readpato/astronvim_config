@@ -1,7 +1,7 @@
 return {
   "AstroNvim/astrocommunity",
   -- Colorschemes
-  { import = "astrocommunity.colorscheme.kanagawa" },
+  { import = "astrocommunity.colorscheme.kanagawa-nvim" },
   -- Diagnostics
   { import = "astrocommunity.diagnostics.trouble-nvim" },
   -- Editing Support
